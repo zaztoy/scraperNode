@@ -1,0 +1,23 @@
+{
+  "name": "scrapernode",
+  "version": "1.0.0",
+  "description": "First lesson",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaztoy/scraperNode.git"
+  },
+  "author": "Zaztoy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zaztoy/scraperNode/issues"
+  },
+  "homepage": "https://github.com/zaztoy/scraperNode#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
